@@ -1,5 +1,7 @@
+#open input file
 file = open('input', 'r')
 
+#initialise initial floor as 0 and position in the input list
 floor = int(0)
 position = int(0)
 
